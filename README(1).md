@@ -1,5 +1,5 @@
 
-# Monday Coffee Data Analysis Project
+# Coffee Data Analysis Project
 
 ## Project Overview
 The **Monday Coffee Data Analysis** project aims to analyze sales data from Monday Coffee, a company that has been selling its products online since January 2023. The primary goal of this project is to determine the market potential and recommend the top three cities in India for opening new coffee shop locations based on consumer demand, sales performance, and other business metrics.
